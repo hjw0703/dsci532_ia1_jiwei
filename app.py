@@ -7,7 +7,7 @@ import pandas as pd
 
 # Read in global data
 df = pd.DataFrame({
-'city' : ['Calgary','Edmonton','Ottawa','Toronto','Vancouver','Victoria','Winnipeg','Montreal']
+'city' : ['Calgary','Edmonton','Ottawa','Toronto','Vancouver','Victoria','Winnipeg','Montreal'],
 'rent_for_one_person' : [852.13, 867.61, 973.04, 1513.37, 1458.08, 1094.24, 752.15, 811.25],
 'transportation_public': [122.4, 114.66, 132.68, 161.55, 121.26, 112.91, 118.73, 108.84],
 'grocery_for_one_person': [264.62, 252.76, 255.04, 320.84, 309.81, 300.18, 239.9, 294.17],
