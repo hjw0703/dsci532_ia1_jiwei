@@ -1,6 +1,0 @@
-pandas
-numpy
-gunicorn
-altair
-dash
-plotly
